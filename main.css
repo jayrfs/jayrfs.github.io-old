@@ -1,0 +1,7 @@
+@media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
+    .mobile-device {
+        //styles for mobile
+        padding-left: 30%;
+        padding-right: 30%;
+    }
+}
