@@ -1,0 +1,3 @@
+[submodule "TOS-acceptance-enforcer"]
+	path = TOS-acceptance-enforcer
+	url = https://github.com/jayrfs/TOS-acceptance-enforcer.git
