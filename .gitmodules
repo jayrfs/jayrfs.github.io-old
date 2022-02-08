@@ -1,3 +1,6 @@
 [submodule "TOS-acceptance-enforcer"]
 	path = TOS-acceptance-enforcer
 	url = https://github.com/jayrfs/TOS-acceptance-enforcer.git
+[submodule "Bad-Captcha-1"]
+	path = Bad-Captcha-1
+	url = https://github.com/jayrfs/Bad-Captcha-1.git
